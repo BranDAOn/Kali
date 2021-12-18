@@ -26,7 +26,7 @@ export default function Kali() {
       textShadow="2.4px 0.4px kali.900"
       ml={2}
     >
-      <Link onClick={home}>KaliDAO</Link>
+      <Link onClick={home}>Kali</Link>
     </Box>
     </>
   )
